@@ -1,4 +1,4 @@
-# Quasar App (quasar-project)
+# Quasar App (quasar-Todo)
 
 A Quasar Project
 
@@ -19,6 +19,3 @@ quasar dev
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
